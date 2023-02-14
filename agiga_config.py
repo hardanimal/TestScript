@@ -1,0 +1,8 @@
+
+from aardvark_py import *
+
+AGA_I2C_SLAVE_ADDR  = 0x14
+AGA_I2C_BITRATE     = 100 #kHZ
+AGA_I2C_PULLUP      = AA_I2C_PULLUP_BOTH
+AGA_I2C_BUS_TIMEOUT = 25
+
